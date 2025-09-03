@@ -18,13 +18,13 @@
 
 > 🔑 **Nota**: Las instrucciones técnicas se encuentran en el siguiente [archivo](docs/setup.md).
 
-##Laboratorios resueltos 2025-2
+## Laboratorios resueltos 2025-2
 
-Acceso a los laboratorios 1,2 y 3 respectivamente:
+Acceso directo: en los siguientes archivos:
 
-- [archivo](docs/codes/labs/lab_01_resolución.ipynb)
-- [archivo](docs/codes/labs/lab_02_resolución.ipynb)
-- [archivo](docs/codes/labs/lab_03_resolucion.ipynb).
+- [LAB1](docs/codes/labs/lab_01_resolución.ipynb)
+- [LAB2](docs/codes/labs/lab_02_resolución.ipynb)
+- [LAB3](docs/codes/labs/lab_03_resolucion.ipynb).
 
 ## Descripción
 
