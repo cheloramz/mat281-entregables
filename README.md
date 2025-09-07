@@ -20,7 +20,7 @@
 
 ## Laboratorios resueltos 2025-2
 
-Acceso directo: en los siguientes archivos:
+Acceso directo en los siguientes archivos:
 
 - [LAB1](docs/codes/labs/lab_01_resolución.ipynb)
 - [LAB2](docs/codes/labs/lab_02_resolución.ipynb)
