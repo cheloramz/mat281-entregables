@@ -26,6 +26,7 @@ Acceso directo en los siguientes archivos:
 - [LAB2](docs/codes/labs/lab_02_resolución.ipynb)
 - [LAB3](docs/codes/labs/lab_03_resolucion.ipynb)
 - [LAB4](docs/codes/labs/lab_04_resolucion.ipynb)
+- [LAB5](docs/codes/labs/lab_05_resolucion.ipynb)
 
 ## Descripción
 
