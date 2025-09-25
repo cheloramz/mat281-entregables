@@ -28,6 +28,12 @@ Acceso directo en los siguientes archivos:
 - [LAB4](docs/codes/labs/lab_04_resolucion.ipynb)
 - [LAB5](docs/codes/labs/lab_05_resolucion.ipynb)
 
+## Tareas resueltas 2025-2
+
+Acceso directo en los siguientes archivos:
+
+- [TAREA1](docs/codes/homeworks/hw_01_LISTA.ipynb)
+
 ## Descripción
 
 Este repositorio sirve como el portafolio digital del estudiante, destinado a mostrar 
