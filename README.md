@@ -31,6 +31,7 @@ Acceso directo en los siguientes archivos:
 - [LAB7](docs/codes/labs/lab_07_resolucion.ipynb)
 - [LAB8](docs/codes/labs/lab_08_resolucion.ipynb)
 - [LAB9](docs/codes/labs/lab_09_resolucion.ipynb)
+- [LAB10](docs/codes/labs/lab_10_resolucion.ipynb)
 
 ## Tareas resueltas 2025-2
 
