@@ -39,6 +39,11 @@ Acceso directo en los siguientes archivos:
 
 - [TAREA1](docs/codes/homeworks/hw_01_LISTA.ipynb)
 
+- [TAREA2](docs/codes/homeworks/hw_02_LISTA.ipynb)
+- Links Tarea 2:
+- Google Drive: https://drive.google.com/drive/folders/1VI_B-hiZPNJjQBjhkytc3d3zcSY_gcBO?usp=sharing
+- Google Colab: https://colab.research.google.com/drive/1QTiCDjzVatAbAmKuc4ysZnXLlAueyrqO?usp=sharing
+
 ## Descripción
 
 Este repositorio sirve como el portafolio digital del estudiante, destinado a mostrar 
