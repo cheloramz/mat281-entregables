@@ -44,6 +44,11 @@ Acceso directo en los siguientes archivos:
 - Google Drive: https://drive.google.com/drive/folders/1VI_B-hiZPNJjQBjhkytc3d3zcSY_gcBO?usp=sharing
 - Google Colab: https://colab.research.google.com/drive/1QTiCDjzVatAbAmKuc4ysZnXLlAueyrqO?usp=sharing
 
+
+##Proyecto Final
+
+-[BEAMER](docs/codes/projects/beamermat281.pdf)
+-[Archivo.ipynb](docs/codes/projects/project.ipynb)
 ## Descripción
 
 Este repositorio sirve como el portafolio digital del estudiante, destinado a mostrar 
